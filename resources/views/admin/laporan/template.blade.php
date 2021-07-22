@@ -1,0 +1,12 @@
+<table>
+  <thead>
+    <tr>
+      <th>Nomor</th>
+      <th>id_kategori</th>
+      <th>nama</th>
+      <th>blok</th>
+      <th>jumlah</th>
+      <th>keterangan</th>
+    </tr>
+  </thead>
+</table>
