@@ -54,6 +54,11 @@ class BuwuanIndex extends Component
     {
         $this->search = request()->query('search', $this->search);
     }
+	
+	public function updatingSearch()
+    {
+        $this->resetPage();
+    }
 
     public function addNew()
     {
